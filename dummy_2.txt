@@ -1,0 +1,11 @@
+633581|99999999|Hanatsubaki|1189 Osatsucho||Toba||922-0138|JP|34.38943|136.90911||20|JPY|3.0||ESR|Near Bonchoji Temple|2884|6023583|0|0||
+633604|99999999|Kobayashiya|369 Kinosakicho Yushima,||Hyogo||6696101|JP|35.62592|134.80992||20|JPY|3.0||ESR|Near Kinosaki Mugiwarazaikudenshokan||3449|0|0||
+608177|99999999|ZEN Rooms Akbar Kebon Kawung|Unik Hotel Jalan H Akbar no 12 Kebon Kaw||Bandung|||ID|-6.91198|107.60041||1|IDR|3.0||ESR|Near Santosa Hospital|3676|522|23.3309|22.3309|2 PM|noon
+608220|99999999|ZEN Rooms Palanan|1720 Dian Street, Brgy. Palanan|Dian Suites|Makati||1235|PH|14.55711|121.00370||1|PHP|2.5||ESR|Near Ayala Center|3676|9733|34.93|33.93|2 PM|noon
+617285|240887|Residence Inn by Marriott Austin Northwest/The Domain Area|11301 Burnet Road||Austin|TX|78758|US|30.39819|-97.71893|AUS|1|USD|3.0||ESR|In Austin (Northwest Austin)|114|460|229.01|164||noon
+311424|240923|Grand Hotel Dream Frankfurt City|Albusstr 9-11||Frankfurt||60313|DE|50.11430|8.69053|FRA|1|EUR|4.0|52|ESR|Near Museum of Modern Art||1246|259.18|119.08|noon|noon
+547052|99999999|Hôtel Moderne|1 rue Raymond Poincaré||Parmain||95620|FR|49.11573|2.20983||1|EUR|.0||ESR|Near Isle Adam Golf||6202070|75.9345|64.9295|1:00 PM|11:00 PM
+648128|99999999|RedDoorz @ Buni Sari Kuta 2|Jl Bunisari No 23 Kuta||Kuta|||ID|-8.72307|115.17525||1|IDR|2.5||ESR|Near Kuta Beach|3674|8956|0|0|2 PM|noon
+648171|99999999|RedDoorz near Lio Square|Jalan Tangkuban Perahu Tunjung Lane II|Kerobokan|Seminyak||80361|ID|-8.67439|115.17468||1|IDR|2.5||ESR|Near Seminyak Square|3674|6047747|88.136|87.136|2 PM|noon
+152738|240698|Best Western Plus High Sierra Hotel|3228 Main Street||Mammoth Lakes|CA|93546|US|37.64789|-118.96943|RNO|1|USD|3.0|52|ESR|Near Crowley Lake|3967|2363|330.32|180.16|3:00 PM|11 AM
+303718|240711|Ramada Hotel Salzburg City Centre|Südtiroler Platz 13||Salzburg||5020|AT|47.81365|13.04461|SZG|1|EUR|4.0|52|ESR|Near Mirabell Palace and Gardens|3463|3350|207.0139|166.08|3 PM|noon

@@ -1,0 +1,11 @@
+0264800|In-Room Kitchen|http://media.expedia.com/hotels/2000000/1470000/1469300/1469242/cb2ec042_b.jpg|350|350||http://media.expedia.com/hotels/2000000/1470000/1469300/1469242/cb2ec042_t.jpg|0
+264800|Reception|http://media.expedia.com/hotels/2000000/1470000/1469300/1469242/cb95aaf9_b.jpg|350|350||http://media.expedia.com/hotels/2000000/1470000/1469300/1469242/cb95aaf9_t.jpg|0
+264800|Reception|http://media.expedia.com/hotels/2000000/1470000/1469300/1469242/cfb26977_b.jpg|350|350||http://media.expedia.com/hotels/2000000/1470000/1469300/1469242/cfb26977_t.jpg|0
+264800|Meeting Facility|http://media.expedia.com/hotels/2000000/1470000/1469300/1469242/d23598cc_b.jpg|350|350||http://media.expedia.com/hotels/2000000/1470000/1469300/1469242/d23598cc_t.jpg|0
+264800|Featured Image|http://media.expedia.com/hotels/2000000/1470000/1469300/1469242/e0d673ad_b.jpg|350|350||http://media.expedia.com/hotels/2000000/1470000/1469300/1469242/e0d673ad_t.jpg|1
+264800|Living Area|http://media.expedia.com/hotels/2000000/1470000/1469300/1469242/e750c7d3_b.jpg|350|350||http://media.expedia.com/hotels/2000000/1470000/1469300/1469242/e750c7d3_t.jpg|0
+264800|Dining|http://media.expedia.com/hotels/2000000/1470000/1469300/1469242/f3a0ebb5_b.jpg|350|350||http://media.expedia.com/hotels/2000000/1470000/1469300/1469242/f3a0ebb5_t.jpg|0
+264800|Interior Entrance|http://media.expedia.com/hotels/2000000/1470000/1469300/1469242/fe6b146c_b.jpg|350|350||http://media.expedia.com/hotels/2000000/1470000/1469300/1469242/fe6b146c_t.jpg|0
+264801|Meeting Facility|http://media.expedia.com/hotels/2000000/1830000/1828400/1828359/1828359_63_b.jpg|350|350||http://media.expedia.com/hotels/2000000/1830000/1828400/1828359/1828359_63_t.jpg|0
+264801|Meeting Facility|http://media.expedia.com/hotels/2000000/1830000/1828400/1828359/1828359_68_b.jpg|350|350||http://media.expedia.com/hotels/2000000/1830000/1828400/1828359/1828359_68_t.jpg|0
+264801|Business Center|http://media.expedia.com/
